@@ -16,6 +16,7 @@ public class BasicsTest extends BaseTest {
         System.out.println("hello");
         System.out.println("hello1");
         System.out.println("hello1");
+        System.out.println("he");
         
         HomePage h=new HomePage(driver);
         h.Preferences.click();
