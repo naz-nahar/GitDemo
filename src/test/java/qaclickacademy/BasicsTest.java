@@ -13,6 +13,7 @@ public class BasicsTest extends BaseTest {
     public static void main(String args []) throws MalformedURLException {
         AndroidDriver<AndroidElement> driver =  Capabilities();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        System.out.println("hello");
         
         HomePage h=new HomePage(driver);
         h.Preferences.click();
