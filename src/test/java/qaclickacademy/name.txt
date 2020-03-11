@@ -1,9 +1,12 @@
 Alphabets
 a
 b
+<<<<<<< HEAD
 c
 
 Numbers
 1
 2
 3
+=======
+>>>>>>> master
