@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79" started-at="2020-02-11T11:33:57 BDT" finished-at="2020-02-11T11:33:57 BDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="79" started-at="2020-02-11T11:33:57 BDT" finished-at="2020-02-11T11:33:57 BDT">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:qaclickacademy.AppiumTest@71423665]" name="MobileTest" duration-ms="7" started-at="2020-02-11T11:33:57 BDT" finished-at="2020-02-11T11:33:57 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method status="PASS" signature="MobileTest2()[pri:0, instance:qaclickacademy.AppiumTest@71423665]" name="MobileTest2" duration-ms="0" started-at="2020-02-11T11:33:57 BDT" finished-at="2020-02-11T11:33:57 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest2 -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.APITest">
+        <test-method status="PASS" signature="APITest2()[pri:0, instance:qaclickacademy.APITest@6fc6f14e]" name="APITest2" duration-ms="1" started-at="2020-02-11T11:33:57 BDT" finished-at="2020-02-11T11:33:57 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APITest2 -->
+        <test-method status="PASS" signature="APITesting()[pri:0, instance:qaclickacademy.APITest@6fc6f14e]" name="APITesting" duration-ms="1" started-at="2020-02-11T11:33:57 BDT" finished-at="2020-02-11T11:33:57 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APITesting -->
+      </class> <!-- qaclickacademy.APITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="WebTest()[pri:0, instance:qaclickacademy.SeleniumTest@20398b7c]" name="WebTest" duration-ms="0" started-at="2020-02-11T11:33:57 BDT" finished-at="2020-02-11T11:33:57 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebTest -->
+        <test-method status="PASS" signature="WebTest2()[pri:0, instance:qaclickacademy.SeleniumTest@20398b7c]" name="WebTest2" duration-ms="1" started-at="2020-02-11T11:33:57 BDT" finished-at="2020-02-11T11:33:57 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebTest2 -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
