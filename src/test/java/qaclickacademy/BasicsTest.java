@@ -14,6 +14,8 @@ public class BasicsTest extends BaseTest {
         AndroidDriver<AndroidElement> driver =  Capabilities();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         System.out.println("hello");
+        System.out.println("hello1");
+        System.out.println("hello1");
         
         HomePage h=new HomePage(driver);
         h.Preferences.click();
